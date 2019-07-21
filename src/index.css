@@ -1,0 +1,88 @@
+body {
+    background-image: url('./components/Imagenes/A42.png');
+    background-repeat: no-repeat;
+}
+
+.fromchido {
+    margin-top: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.aber {
+    display: flex;
+    justify-content: center;
+}
+
+
+.parrafo {
+    color: white;
+}
+
+.titulo {
+    color: white;
+    font-size: 30px;
+}
+
+.mycard {
+    display: flex;
+    justify-content: center;
+}
+
+.inputtext {
+    display: flex;
+    margin-top: 25px;
+    width: 350px;
+    height: 50px;
+}
+
+.botoncito {
+    margin: 25px 0 25px 0;
+    color: white;
+    background: blue;
+    border: blue;
+    font-size: 16px;
+    border-radius: 500px;
+    width: 100px;
+    height: 50px;
+}
+
+.boton {
+    color: white;
+    background: blue;
+    border: blue;
+    font-size: 16px;
+    border-radius: 500px;
+    width: 100px;
+    height: 30px;
+
+}
+
+.inputreporte {
+    display: flex;
+    margin-top: 25px;
+    width: 550px;
+    height: 50px;
+
+}
+
+.botonreprote {
+    margin-top: 25px;
+    color: white;
+    background: blue;
+    border: blue;
+    font-size: 16px;
+    border-radius: 500px;
+    width: 100px;
+    height: 30px;
+}
+
+.labelemail {
+    color: white;
+}
+
+.cartaschidas {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
